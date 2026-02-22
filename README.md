@@ -31,7 +31,7 @@ User → GitHub Repository → GitHub Actions → AWS S3 Bucket
 
 1. Clone the repository
 
-git clone https://github.com/your-username/repo-name.git
+git clone https://github.com/hs2002-18/S3-Backup-Devops-Project.git
 
 2. Install dependencies
 
