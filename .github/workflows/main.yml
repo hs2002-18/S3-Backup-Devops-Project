@@ -1,6 +1,8 @@
 name: S3 Backup Automation
 
 on:
+  push:
+    branches: [ master ]
   schedule:
     - cron: "*/5 * * * *"   # runs daily
 
